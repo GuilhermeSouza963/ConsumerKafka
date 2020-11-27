@@ -1,5 +1,5 @@
 # ConsumerKafka
-Criação de um Consumer para recebimento de logs em um console app .Net Core
+Criação de um Consumer utilizando Kafka e Zookeeper para recebimento de mensagens em um console app .Net Core
 
 
 Antes de rodar o console application você necessita utilizar o docker compose para levantar as imagens do zookeeper e do kafka, o arquivo docker-compose.yaml
