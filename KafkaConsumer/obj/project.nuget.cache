@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mqRCBeUw77h0mk/7Mmn7smoQ4VRCQFWbwS2KgV0jzRE2Cobf8/cnoibvHIN+Ah7eCO1fQ60kvPEWbFJ0DkvNjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Guilherme Souza\\source\\repos\\KafkaConsumer\\KafkaConsumer\\KafkaConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guilherme Souza\\.nuget\\packages\\confluent.kafka\\1.5.2\\confluent.kafka.1.5.2.nupkg.sha512",
+    "C:\\Users\\Guilherme Souza\\.nuget\\packages\\librdkafka.redist\\1.5.2\\librdkafka.redist.1.5.2.nupkg.sha512",
+    "C:\\Users\\Guilherme Souza\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\Guilherme Souza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
